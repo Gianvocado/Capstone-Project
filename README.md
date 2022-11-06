@@ -8,6 +8,8 @@ Integrantes:
 
 Video de como configurar la computadora para poder correr el código:
 
+https://drive.google.com/file/d/1skuamRk9gVx5mzufD3bkauutKnHYDSqO/view?usp=sharing
+
 # Como configurar la computadora para poder correr el código:
  
 Descargar e instalar el editor de código Pycharm:
@@ -47,5 +49,8 @@ Detector de mascarilla(detect_mask_video.py):
 ![image](https://user-images.githubusercontent.com/117555515/200153489-cb81063f-bc7c-47b3-9a45-2c2665159cef.png)
 
 
+# Prototipo Funcional:
 
+Video del prototipo funcional:
 
+https://drive.google.com/file/d/1Cwc9WNnb26eBx16Izg35rFBtKN25Gb8a/view?usp=sharing
