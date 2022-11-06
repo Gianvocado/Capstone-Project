@@ -1,5 +1,10 @@
 # Capstone-Project
-Capstone Project - Detector de mascarilla usando MobilenetV2
+Capstone Project - Proyecto detector de mascarilla usando MobilenetV2
+
+Integrantes:
+
+-Giancarlo Jesús Garcia Samaniego
+-Stalin Yeremy Soria Alvarez
 
 Video de como configurar la computadora para poder correr el código:
 
