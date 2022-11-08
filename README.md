@@ -22,6 +22,10 @@ Descargar el lenguaje de programación python en la versión 3.7 a través de Mi
 
 ![image](https://user-images.githubusercontent.com/117555515/200153086-8b720ef5-962d-4114-9de2-d19f26956a96.png)
 
+Agregar el dataset a la carpeta del proyecto del siguiente enlace:
+
+https://github.com/prajnasb/observations/tree/master/experiements/data
+
 Inicializamos pycharm y abrimos el código:
 
 ![image](https://user-images.githubusercontent.com/117555515/200153185-d8b7dd9f-6ea1-4df8-9d93-26be623638a3.png)
